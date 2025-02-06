@@ -52,8 +52,7 @@ jobs:
 
         input_file=$iplist_git/output/result.m3u
         output_file="live.m3u"
-        sed -i.bak '1d' "$input_file"
-        # sed -i.bak "s#x-tvg-url=\"[^\"]*\"#x-tvg-url=\"$egp_url\"#" "$input_file"
+        sed -i.bak "s#x-tvg-url=\"[^\"]*\"#x-tvg-url=\"$egp_url\"#" "$input_file"
         sed -i.bak "s#https://raw.githubusercontent.com/fanmingming/live/main/tv/#$escaped_icon_prefix#g" "$input_file"
         cp "$input_file" "$output_file"
 
