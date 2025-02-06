@@ -13,10 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+      with:
+        ref: gd
     - name: Update m3u Files
       run: |
         set -e 
-        git checkout gd
 
         egp_url='https://gitee.com/styUnv/tv/raw/gd/e.xml'
         icon_prefix='https://gitee.com/styUnv/tv/raw/gd/icon/'
@@ -64,7 +65,7 @@ jobs:
             if ! git diff --staged --quiet; then
                 echo "开始执行 git push 操作"    
                 git commit -a -m "update live source"
-                git push 
+                git push origin gd
             fi
         else
             echo "最新频道个数为 $count，未超过阈值 $save_threshold，不执行 git push 操作。"
