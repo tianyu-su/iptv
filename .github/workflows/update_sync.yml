@@ -23,9 +23,9 @@ jobs:
         # icon_prefix='https://gitee.com/styUnv/tv/raw/gd/icon/'
         # save_threshold=50
 
-        egp_url=${{ env.EGP_URL }}
-        icon_prefix=${{ env.ICON_PREFIX }}
-        save_threshold=${{ env.SAVE_THRESHOLD}}
+        egp_url=${{ vars.EGP_URL }}
+        icon_prefix=${{ vars.ICON_PREFIX }}
+        save_threshold=${{ vars.SAVE_THRESHOLD}}
 
         TMP_DIR=$(mktemp -d)
         fanming_git=$TMP_DIR/fanming_live
