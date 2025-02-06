@@ -1,0 +1,88 @@
+name: gitee iptv
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 1 * * *'
+    - cron: '0 12 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Update m3u Files
+      run: |
+        set -e 
+        git checkout gd
+
+        egp_url='https://gitee.com/styUnv/tv/raw/gd/e.xml'
+        icon_prefix='https://gitee.com/styUnv/tv/raw/gd/icon/'
+        save_threshold=50
+
+
+        TMP_DIR=$(mktemp -d)
+        fanming_git=$TMP_DIR/fanming_live
+        iplist_git=$TMP_DIR/iptv_api
+
+        trap 'rm -rf $TMP_DIR' EXIT
+
+        git clone https://github.com/fanmingming/live.git  $fanming_git
+        mkdir -p ./icon
+        cp -r -f $fanming_git/tv ./icon
+
+
+        git clone https://github.com/Guovin/iptv-api.git  $iplist_git
+        git -C $iplist_git checkout gd
+
+
+        escape_sed() {
+            echo "$1" | sed 's/[\/&]/\\&/g'
+        }
+        escaped_icon_prefix=$(escape_sed "$icon_prefix")
+
+
+        input_file=$iplist_git/output/result.m3u
+        output_file="live.m3u"
+        sed -i.bak "s#x-tvg-url=\"[^\"]*\"#x-tvg-url=\"$egp_url\"#" "$input_file"
+        sed -i.bak "s#https://raw.githubusercontent.com/fanmingming/live/main/tv/#$escaped_icon_prefix#g" "$input_file"
+        cp "$input_file" "$output_file"
+
+
+        count=$(grep -o "tvg-name" "$output_file" | wc -l)
+        count=$(echo $count | tr -d ' ')
+
+        if [ $count -gt $save_threshold ]; then
+            echo "最新频道个数为 $count，大于阈值 $save_threshold"
+            
+            git config --local user.name "github-actions[bot]"
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"    
+            git add -A
+
+            if ! git diff --staged --quiet; then
+                echo "开始执行 git push 操作"    
+                git commit -a -m "update live source"
+                git push 
+            fi
+        else
+            echo "最新频道个数为 $count，未超过阈值 $save_threshold，不执行 git push 操作。"
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GIHUB_TOKEN }}
+  
+  syncToGitee:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Mirror with force push (git push -f)
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/tianyu-su
+          dst: gitee/styUnv
+          dst_key: '${{ secrets.GITEE_PRIVATE_KEY }}'
+          dst_token: '${{ secrets.GITEE_TOKEN }}'
+          static_list: iptv
+          force_update: true
+          debug: true
+    
