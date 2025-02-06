@@ -77,7 +77,7 @@ jobs:
     needs: build
     steps:
       - name: Mirror with force push (git push -f)
-        uses: Yikun/hub-mirror-action@master
+        uses: tianyu-su/hub-mirror-action@master
         with:
           src: github/tianyu-su
           dst: gitee/styUnv
