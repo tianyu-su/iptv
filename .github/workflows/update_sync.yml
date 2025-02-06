@@ -37,6 +37,8 @@ jobs:
         mkdir -p ./icon
         cp -r -f $fanming_git/tv ./icon
 
+        rm -rf ./icon/m3u
+        rm -rf ./icon/tv
 
         git clone https://github.com/Guovin/iptv-api.git  $iplist_git
         git -C $iplist_git checkout gd
