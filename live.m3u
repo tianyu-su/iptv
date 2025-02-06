@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://gitee.com/styUnv/tv/raw/gd/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/styUnv/tv/raw/gd/icon/CCTV1.png" group-title="🕘️更新时间",2025-02-06 18:26:49
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/styUnv/tv/raw/gd/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
