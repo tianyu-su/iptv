@@ -19,10 +19,13 @@ jobs:
       run: |
         set -e 
 
-        egp_url='https://gitee.com/styUnv/tv/raw/gd/e.xml'
-        icon_prefix='https://gitee.com/styUnv/tv/raw/gd/icon/'
-        save_threshold=50
+        # egp_url='https://gitee.com/styUnv/tv/raw/gd/e.xml'
+        # icon_prefix='https://gitee.com/styUnv/tv/raw/gd/icon/'
+        # save_threshold=50
 
+        egp_url=${{ env.EGP_URL }}
+        icon_prefix=${{ env.ICON_PREFIX }}
+        save_threshold=${{ env.SAVE_THRESHOLD}}
 
         TMP_DIR=$(mktemp -d)
         fanming_git=$TMP_DIR/fanming_live
@@ -47,7 +50,8 @@ jobs:
 
         input_file=$iplist_git/output/result.m3u
         output_file="live.m3u"
-        sed -i.bak "s#x-tvg-url=\"[^\"]*\"#x-tvg-url=\"$egp_url\"#" "$input_file"
+        sed -i.bak '1d' "$input_file"
+        # sed -i.bak "s#x-tvg-url=\"[^\"]*\"#x-tvg-url=\"$egp_url\"#" "$input_file"
         sed -i.bak "s#https://raw.githubusercontent.com/fanmingming/live/main/tv/#$escaped_icon_prefix#g" "$input_file"
         cp "$input_file" "$output_file"
 
@@ -64,7 +68,7 @@ jobs:
 
             if ! git diff --staged --quiet; then
                 echo "开始执行 git push 操作"    
-                git commit -a -m "update live source"
+                git commit -a -m "github-bot update source"
                 git push origin gd
             fi
         else
@@ -73,18 +77,18 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GIHUB_TOKEN }}
   
-  syncToGitee:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Mirror with force push (git push -f)
-        uses: tianyu-su/hub-mirror-action@master
-        with:
-          src: github/tianyu-su
-          dst: gitee/styUnv
-          dst_key: '${{ secrets.GITEE_PRIVATE_KEY }}'
-          dst_token: '${{ secrets.GITEE_TOKEN }}'
-          static_list: iptv
-          force_update: true
-          debug: true
+  # syncToGitee:
+  #   runs-on: ubuntu-latest
+  #   needs: build
+  #   steps:
+  #     - name: Mirror with force push (git push -f)
+  #       uses: tianyu-su/hub-mirror-action@master
+  #       with:
+  #         src: github/tianyu-su
+  #         dst: gitee/styUnv
+  #         dst_key: '${{ secrets.GITEE_PRIVATE_KEY }}'
+  #         dst_token: '${{ secrets.GITEE_TOKEN }}'
+  #         static_list: iptv
+  #         force_update: true
+  #         debug: true
     
