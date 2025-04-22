@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/styUnv/tv/raw/gd/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CCTV1.png" group-title="🕘️更新时间",2025-04-21 18:22:58
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CCTV1.png" group-title="🕘️更新时间",2025-04-22 06:23:17
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源
@@ -408,9 +408,9 @@ rtsp://60.13.39.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CETV4.png" group-title="📺央视频道",CETV4
 rtsp://60.13.23.179/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil$订阅源
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/央视台球.png" group-title="💰央视付费频道",央视台球
-http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/央视台球.png" group-title="💰央视付费频道",央视台球
 http://183.11.239.36:808/hls/73/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/央视台球.png" group-title="💰央视付费频道",央视台球
+http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/央视台球.png" group-title="💰央视付费频道",央视台球
 rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil$订阅源
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/央视台球.png" group-title="💰央视付费频道",央视台球
@@ -462,9 +462,9 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226967/86128985.smil$订阅源
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/高尔夫网球.png" group-title="💰央视付费频道",高尔夫网球
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226967/86128985.smil$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="💰央视付费频道",风云足球
-http://dassby.qqff.top:99/live/风云足球/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="💰央视付费频道",风云足球
 http://183.11.239.36:808/hls/133/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="💰央视付费频道",风云足球
+http://dassby.qqff.top:99/live/风云足球/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="💰央视付费频道",风云足球
 rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="💰央视付费频道",风云足球
@@ -478,9 +478,9 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226969/86129034.smil$订阅源
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/电视指南.png" group-title="💰央视付费频道",电视指南
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226969/86129034.smil$订阅源
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/世界地理.png" group-title="💰央视付费频道",世界地理
-http://dassby.qqff.top:99/live/世界地理/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/世界地理.png" group-title="💰央视付费频道",世界地理
 http://183.11.239.36:808/hls/11/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/世界地理.png" group-title="💰央视付费频道",世界地理
+http://dassby.qqff.top:99/live/世界地理/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/世界地理.png" group-title="💰央视付费频道",世界地理
 rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil$订阅源
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/世界地理.png" group-title="💰央视付费频道",世界地理
@@ -520,9 +520,9 @@ http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="📡卫视频道",香港卫视
 http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="📡卫视频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="📡卫视频道",香港卫视
 https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="📡卫视频道",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="📡卫视频道",香港卫视
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="📡卫视频道",香港卫视
@@ -1182,11 +1182,11 @@ http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8$订�
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东珠江.png" group-title="☘️广东频道",广东珠江
 https://tv.cdn.com.mp/live/gdzj/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东珠江.png" group-title="☘️广东频道",广东珠江
+https://haoyunlai.serv00.net/Smartv-1.php?id=zhujiang$订阅源
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东珠江.png" group-title="☘️广东频道",广东珠江
 https://live.ximalaya.com/radio-first-page-app/live/252/64.m3u8?transcode=ts$订阅源
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东珠江.png" group-title="☘️广东频道",广东珠江
-http://14.212.185.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东珠江.png" group-title="☘️广东频道",广东珠江
-http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$订阅源
+http://live.xmcdn.com/live/252/64.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
 http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
@@ -1196,13 +1196,13 @@ http://cdn2.132.us.kg/live/gdty/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
 https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
-http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源
+http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
-http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$订阅源
+http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
 http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
-http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv$订阅源
+http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
 http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="☘️广东频道",广东体育
@@ -1214,19 +1214,19 @@ https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
 https://live.ximalaya.com/radio-first-page-app/live/245/64.m3u8?transcode=ts$订阅源
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
-http://120.238.94.10:9901/tsfile/live/1010_1.m3u8$订阅源
+http://120.198.95.220:9901/tsfile/live/1008_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
-http://218.15.183.23:9901/tsfile/live/23010_1.m3u8$订阅源
+http://120.238.94.10:9901/tsfile/live/1010_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
 http://183.237.95.108:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
-http://120.198.95.220:9901/tsfile/live/1008_1.m3u8?key=txiptv$订阅源
+http://218.15.183.23:9901/tsfile/live/23010_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
 http://120.198.101.106:9901/tsfile/live/1013_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
-http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
 http://183.11.239.36:808/hls/5/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东新闻.png" group-title="☘️广东频道",广东新闻
+http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东卫视.png" group-title="☘️广东频道",广东卫视
@@ -1256,11 +1256,11 @@ http://183.237.95.108:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东民生.png" group-title="☘️广东频道",广东民生
 http://119.140.58.125:4434/hls/163/index.m3u8
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东民生.png" group-title="☘️广东频道",广东民生
-http://120.77.205.62:8087/rtp/239.77.0.225:5146$组播源
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东民生.png" group-title="☘️广东频道",广东民生
 http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东民生.png" group-title="☘️广东频道",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东民生.png" group-title="☘️广东频道",广东民生
+http://120.77.205.62:8087/rtp/239.77.0.225:5146$组播源
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108$订阅源
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
@@ -1284,59 +1284,59 @@ http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
 http://php.jdshipin.com:8880/gztv.php?id=zhonghe$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
+http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
 http://tp88.cn/IPTV/guangdong/gztv.php?id=zhonghe
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
-http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe$订阅源
+https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb$订阅源
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
+http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp;txSecret=7e4590b2320037d7ce49ce9eac2dd6c0$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
-https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb$订阅源
+http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe$订阅源
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
 http://119.140.58.125:4434/hls/164/index.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
 http://120.77.205.62:8087/rtp/239.253.43.71:5146$组播源
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州综合.png" group-title="☘️广东频道",广州综合
-http://nn.7x9d.cn/地方台8563/gsw.php?id=gzzh$订阅源
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
 http://php.jdshipin.com:8880/gztv.php?id=yingshi#https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487$订阅源
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
-http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4$订阅源
+http://nn.7x9d.cn/地方台8563/gsw.php?id=gzys$订阅源
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
 http://tp88.cn/IPTV/guangdong/gztv.php?id=yingshi
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487$订阅源
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
-http://v4d.xiepeiru.top:1123/iptv/gq/GuangZHouYingShi$订阅源
+https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb$订阅源
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
+http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4$订阅源
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
 https://tencentplaygsm.gztv.com/live/yingshi.m3u8?txTime=65797d58&txSecret=6fee6e4ead49f4ccfb8113f0a580acb3$订阅源
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
-https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb$订阅源
+http://v4d.xiepeiru.top:1123/iptv/gq/GuangZHouYingShi$订阅源
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
 http://119.140.58.125:4434/hls/166/index.m3u8
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
 http://120.77.205.62:8087/rtp/239.253.43.73:5146$组播源
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州影视.png" group-title="☘️广东频道",广州影视
-http://nn.7x9d.cn/地方台8563/gsw.php?id=gzys$订阅源
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
 http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487$订阅源
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
-http://tencentplaygsm.gztv.com/live/jingsai.m3u8$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
-http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
-https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
-https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
 https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb$订阅源
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
-http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源
+https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+http://tencentplaygsm.gztv.com/live/jingsai.m3u8$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="☘️广东频道",广州竞赛
+https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
 #EXTINF:-1 tvg-name="江门综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/江门综合.png" group-title="☘️广东频道",江门综合
 http://dslive.grtn.cn/jmzh/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="江门综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/江门综合.png" group-title="☘️广东频道",江门综合
@@ -1388,9 +1388,9 @@ http://zhfivel02.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-2f7bb420b
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江.png" group-title="☘️浙江频道",浙江钱江
 http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc$订阅源
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江.png" group-title="☘️浙江频道",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n$订阅源
-#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江.png" group-title="☘️浙江频道",浙江钱江
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed$订阅源
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江.png" group-title="☘️浙江频道",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n$订阅源
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江.png" group-title="☘️浙江频道",浙江钱江
 http://api3.52tb.xyz/info?id=436&token=20230226bgyszp$订阅源
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
@@ -1398,9 +1398,9 @@ http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
 http://zhfivel02.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-2f7bb420bfd1d218b9c7b07c0ac1ba2f$订阅源
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed$订阅源
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
 http://api3.52tb.xyz/info?id=436&token=20230226bgyszp$订阅源
 #EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
@@ -1410,9 +1410,9 @@ http://zhfivel02.cztv.com/channel02/1080p.m3u8?auth_key=2524708799-0-0-2f7bb420b
 #EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
 http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc$订阅源
 #EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n$订阅源
-#EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed$订阅源
+#EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n$订阅源
 #EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
 http://api3.52tb.xyz/info?id=436&token=20230226bgyszp$订阅源
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江生活.png" group-title="☘️浙江频道",浙江生活
@@ -1426,9 +1426,9 @@ http://ls.qingting.fm/live/1099.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江生活.png" group-title="☘️浙江频道",浙江生活
 https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江生活.png" group-title="☘️浙江频道",浙江生活
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n$订阅源
-#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江生活.png" group-title="☘️浙江频道",浙江生活
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江生活.png" group-title="☘️浙江频道",浙江生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n$订阅源
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江生活.png" group-title="☘️浙江频道",浙江生活
 http://api3.52tb.xyz/info?id=437&token=20230226bgyszp$订阅源
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
@@ -1442,21 +1442,21 @@ http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
 http://ls.qingting.fm/live/1099.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
 http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教育.png" group-title="☘️浙江频道",浙江教育
 http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教育.png" group-title="☘️浙江频道",浙江教育
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?$订阅源
-#EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教育.png" group-title="☘️浙江频道",浙江教育
 http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教育.png" group-title="☘️浙江频道",浙江教育
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?$订阅源
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生.png" group-title="☘️浙江频道",浙江民生
 http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生.png" group-title="☘️浙江频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源
-#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生.png" group-title="☘️浙江频道",浙江民生
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生.png" group-title="☘️浙江频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
 http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc$订阅源
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
@@ -1464,9 +1464,9 @@ http://zhfivel02.cztv.com/channel07/1080p.m3u8?auth_key=2524708799-0-0-4af48ba83
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
 http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?$订阅源
-#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed$订阅源
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?$订阅源
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
 http://api3.52tb.xyz/info?id=434&token=20221127jxwhhemby$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
@@ -1476,9 +1476,9 @@ https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
 http://ms.fxim.net:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/杭州综合.png" group-title="☘️浙江频道",杭州综合
@@ -1498,25 +1498,25 @@ http://goo.bkpcp.top/mg/hzse$订阅源
 #EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科.png" group-title="☘️浙江频道",浙江教科
 http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa$订阅源
 #EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科.png" group-title="☘️浙江频道",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科.png" group-title="☘️浙江频道",浙江教科
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科.png" group-title="☘️浙江频道",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江教科" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科.png" group-title="☘️浙江频道",浙江教科
 http://api3.52tb.xyz/info?id=432&token=20230226bgyszp$订阅源
 #EXTINF:-1 tvg-name="浙江经济" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济.png" group-title="☘️浙江频道",浙江经济
 http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37$订阅源
 #EXTINF:-1 tvg-name="浙江经济" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济.png" group-title="☘️浙江频道",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?$订阅源
-#EXTINF:-1 tvg-name="浙江经济" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济.png" group-title="☘️浙江频道",浙江经济
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江经济" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经济.png" group-title="☘️浙江频道",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?$订阅源
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/之江纪录.png" group-title="☘️浙江频道",之江纪录
 http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037$订阅源
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/之江纪录.png" group-title="☘️浙江频道",之江纪录
 http://goo.bkpcp.top/mg/zjjl$订阅源
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/之江纪录.png" group-title="☘️浙江频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/之江纪录.png" group-title="☘️浙江频道",之江纪录
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/之江纪录.png" group-title="☘️浙江频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
 http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519$订阅源
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
@@ -1528,9 +1528,9 @@ https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
 http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450$订阅源
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed$订阅源
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
@@ -1540,11 +1540,11 @@ http://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
-https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源
+#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
+https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"$订阅源
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
@@ -1570,9 +1570,9 @@ http://play-sh13.quklive.com/live/1699001836208185.m3u8?auth_key=2027429324-c77b
 #EXTINF:-1 tvg-name="舟山公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/舟山公共.png" group-title="☘️浙江频道",舟山公共
 http://play-sh13.quklive.com/live/1699002430299200.m3u8?auth_key=2027429366-f4515e585a0347f780a01c73ae293945-0-b3699e931cf04290680745e989c63d86$订阅源
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经视.png" group-title="☘️浙江频道",浙江经视
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经视.png" group-title="☘️浙江频道",浙江经视
 http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经视.png" group-title="☘️浙江频道",浙江经视
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江经视.png" group-title="☘️浙江频道",浙江经视
 http://api3.52tb.xyz/info?id=437&token=20230226bgyszp$订阅源
 #EXTINF:-1 tvg-name="浙江留学" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江留学.png" group-title="☘️浙江频道",浙江留学
@@ -1586,13 +1586,13 @@ http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
 https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
 http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江数码时代.png" group-title="☘️浙江频道",浙江数码时代
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n$订阅源
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?$订阅源
 #EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江数码时代.png" group-title="☘️浙江频道",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed$订阅源
+#EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江数码时代.png" group-title="☘️浙江频道",浙江数码时代
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n$订阅源
 #EXTINF:-1 tvg-name="浙江教科影院" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科影院.png" group-title="☘️浙江频道",浙江教科影院
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed$订阅源
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科影视.png" group-title="☘️浙江频道",浙江教科影视
@@ -1600,13 +1600,13 @@ http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b80
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科影视.png" group-title="☘️浙江频道",浙江教科影视
 http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67$订阅源
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科影视.png" group-title="☘️浙江频道",浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科影视.png" group-title="☘️浙江频道",浙江教科影视
 http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江公共新闻.png" group-title="☘️浙江频道",浙江公共新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江教科影视.png" group-title="☘️浙江频道",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江公共新闻.png" group-title="☘️浙江频道",浙江公共新闻
 http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江公共新闻.png" group-title="☘️浙江频道",浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江休闲台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江休闲台.png" group-title="☘️浙江频道",浙江休闲台
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江青田" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江青田.png" group-title="☘️浙江频道",浙江青田
@@ -1722,9 +1722,9 @@ http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8#http://l.cztvcloud
 #EXTINF:-1 tvg-name="文成新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/文成新闻综合.png" group-title="☘️浙江频道",文成新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=$订阅源
 #EXTINF:-1 tvg-name="数码时代" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/数码时代.png" group-title="☘️浙江频道",数码时代
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="数码时代" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/数码时代.png" group-title="☘️浙江频道",数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed$订阅源
+#EXTINF:-1 tvg-name="数码时代" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/数码时代.png" group-title="☘️浙江频道",数码时代
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="开化新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/开化新闻综合.png" group-title="☘️浙江频道",开化新闻综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed$订阅源
 #EXTINF:-1 tvg-name="开化国家公园" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/开化国家公园.png" group-title="☘️浙江频道",开化国家公园
@@ -1776,9 +1776,9 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed#http://l.cztvcl
 #EXTINF:-1 tvg-name="云和新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/云和新闻综合.png" group-title="☘️浙江频道",云和新闻综合
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed$订阅源
 #EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/中国蓝新闻.png" group-title="☘️浙江频道",中国蓝新闻
-https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?$订阅源
-#EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/中国蓝新闻.png" group-title="☘️浙江频道",中国蓝新闻
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
+#EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/中国蓝新闻.png" group-title="☘️浙江频道",中国蓝新闻
+https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?$订阅源
 #EXTINF:-1 tvg-name="东阳影视生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东阳影视生活.png" group-title="☘️浙江频道",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8$订阅源
 #EXTINF:-1 tvg-name="上虞新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/上虞新闻综合.png" group-title="☘️浙江频道",上虞新闻综合
@@ -1894,11 +1894,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8$订�
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
-http://60.29.124.66:6080/hls/62/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
 http://dassby.qqff.top:99/live/动漫秀场/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
 rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
+rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117$订阅源
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/哈哈炫动.png" group-title="☘️上海频道",哈哈炫动
@@ -1928,17 +1928,17 @@ http://nas.suntao.online:35455/itv/5000000011000031110.m3u8?cdn=bestzb$订阅源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
-http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
 https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
-https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源
+http://p2.vzan.com/slowlive/596867413819827251/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
 https://cm-live.ntjoy.com/live/4f1.m3u8$订阅源
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8$订阅源
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新闻综合.png" group-title="☘️上海频道",新闻综合
+https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
 http://z.b.bkpcp.top/m.php?id=hxjc$订阅源
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
@@ -2029,12 +2029,18 @@ rtsp://115.153.222.112:554/PLTV/88888888/224/3221225738/100001000000000600000000
 rtsp://115.153.247.80/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil$订阅源
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/都市剧场.png" group-title="☘️上海频道",都市剧场
 rtsp://115.153.230.145/PLTV/88888888/224/3221225738/10000100000000060000000000901499_0.smil$订阅源
+#EXTINF:-1 tvg-name="璧山综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/璧山综合.png" group-title="☘️重庆频道",璧山综合
+http://222.179.42.129:8181/hls1.m3u8?zzhongqd$订阅源
+#EXTINF:-1 tvg-name="铜梁综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/铜梁综合.png" group-title="☘️重庆频道",铜梁综合
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd$订阅源
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
 http://120.76.248.139/live/bfgd/4200000168.m3u8$订阅源
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
 http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 #EXTINF:-1 tvg-name="重庆汽摩" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/重庆汽摩.png" group-title="☘️重庆频道",重庆汽摩
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001$订阅源
+#EXTINF:-1 tvg-name="荣昌综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/荣昌综合.png" group-title="☘️重庆频道",荣昌综合
+http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 #EXTINF:-1 tvg-name="江津新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/江津新闻综合.png" group-title="☘️重庆频道",江津新闻综合
 http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 #EXTINF:-1 tvg-name="垫江综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/垫江综合.png" group-title="☘️重庆频道",垫江综合
@@ -2161,10 +2167,6 @@ https://stream.thmz.com/wxtv5/playlist.m3u8$订阅源
 http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867#http://stream.thmz.com/wxtv5/playlist.m3u8#http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772$订阅源
 #EXTINF:-1 tvg-name="无锡都市资讯" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无锡都市资讯.png" group-title="☘️江苏频道",无锡都市资讯
 http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861$订阅源
-#EXTINF:-1 tvg-name="武进新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/武进新闻.png" group-title="☘️江苏频道",武进新闻
-https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
-#EXTINF:-1 tvg-name="武进生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/武进生活.png" group-title="☘️江苏频道",武进生活
-https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 #EXTINF:-1 tvg-name="江宁新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/江宁新闻.png" group-title="☘️江苏频道",江宁新闻
 http://api3.52tb.xyz/info?id=455&token=20221127jxwhhemby$订阅源
 #EXTINF:-1 tvg-name="江宁新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/江宁新闻.png" group-title="☘️江苏频道",江宁新闻
@@ -2256,13 +2258,13 @@ rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv$订阅源
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/连云港新闻综合.png" group-title="☘️江苏频道",连云港新闻综合
 http://z.b.bkpcp.top/m.php?id=lygxwzh$订阅源
 #EXTINF:-1 tvg-name="镇江二套社会民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/镇江二套社会民生.png" group-title="☘️江苏频道",镇江二套社会民生
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8$订阅源
-#EXTINF:-1 tvg-name="镇江二套社会民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/镇江二套社会民生.png" group-title="☘️江苏频道",镇江二套社会民生
 http://cm-wshls.homecdn.com/live/2aa16.m3u8$订阅源
-#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
-http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0$订阅源
+#EXTINF:-1 tvg-name="镇江二套社会民生" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/镇江二套社会民生.png" group-title="☘️江苏频道",镇江二套社会民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8$订阅源
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8$订阅源
+#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0$订阅源
 #EXTINF:-1 tvg-name="靖江新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/靖江新闻综合.png" group-title="☘️江苏频道",靖江新闻综合
 http://ls.qingting.fm/live/23797.m3u8$订阅源
 #EXTINF:-1 tvg-name="靖江新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/靖江新闻综合.png" group-title="☘️江苏频道",靖江新闻综合
@@ -2370,13 +2372,13 @@ http://120.238.94.10:9901/tsfile/live/1059_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
-http://1b6467f415.iok.la:9931/tsfile/live/1078_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
-http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+http://183.11.239.36:808/hls/171/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
 http://121.19.134.222:808/tsfile/live/1037_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
-http://183.11.239.36:808/hls/171/index.m3u8$订阅源
+http://1b6467f415.iok.la:9931/tsfile/live/1078_1.m3u8$订阅源
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰纪实.png" group-title="☘️湖南频道",金鹰纪实
+http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/湖南金鹰纪实.png" group-title="☘️湖南频道",湖南金鹰纪实
 http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb$订阅源
 #EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/湖南金鹰纪实.png" group-title="☘️湖南频道",湖南金鹰纪实
@@ -2416,9 +2418,9 @@ https://ls.qingting.fm/live/20198/64k.m3u8$订阅源
 #EXTINF:-1 tvg-name="江夏新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/江夏新闻综合.png" group-title="☘️湖北频道",江夏新闻综合
 http://59.175.226.142:280/gb28181/xwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 #EXTINF:-1 tvg-name="十堰新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/十堰新闻.png" group-title="☘️湖北频道",十堰新闻
-https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&amp;amp%3Btpid=868100086$订阅源
-#EXTINF:-1 tvg-name="十堰新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/十堰新闻.png" group-title="☘️湖北频道",十堰新闻
 http://p8.vzan.com/slowlive/034028687228317362/live.m3u8$订阅源
+#EXTINF:-1 tvg-name="十堰新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/十堰新闻.png" group-title="☘️湖北频道",十堰新闻
+https://p8.vzan.com/slowlive/034028687228317362/live.m3u8?zbid=351104&amp;amp%3Btpid=868100086$订阅源
 #EXTINF:-1 tvg-name="荆门新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
 https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691$订阅源
 #EXTINF:-1 tvg-name="荆门新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/荆门新闻综合.png" group-title="☘️湖北频道",荆门新闻综合
@@ -2487,8 +2489,6 @@ http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd$订阅源
 http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd$订阅源
 #EXTINF:-1 tvg-name="津南一套" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/津南一套.png" group-title="☘️天津频道",津南一套
 http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1$订阅源
-#EXTINF:-1 tvg-name="武清综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/武清综合.png" group-title="☘️天津频道",武清综合
-https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/天津卫视.png" group-title="☘️天津频道",天津卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459$订阅源
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/天津卫视.png" group-title="☘️天津频道",天津卫视
@@ -2530,21 +2530,17 @@ rtmp://tv.drs.yizu.tv/channellive/ch2?zsicd$订阅源
 #EXTINF:-1 tvg-name="利州综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/利州综合.png" group-title="☘️四川频道",利州综合
 http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd$订阅源
 #EXTINF:-1 tvg-name="剑阁综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/剑阁综合.png" group-title="☘️四川频道",剑阁综合
-https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="剑阁综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/剑阁综合.png" group-title="☘️四川频道",剑阁综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="叙州新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/叙州新闻综合.png" group-title="☘️四川频道",叙州新闻综合
-http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd$订阅源
-#EXTINF:-1 tvg-name="叙州新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/叙州新闻综合.png" group-title="☘️四川频道",叙州新闻综合
-http://2061827161.cloudvdn.com/a.m3u8?domain=pili-live-hls.ybcxjd.com&player=IjsAAN-1KyqjjPYX&secondToken=secondToken%3AMHl3QtaAs-H2KkHpuGUAlKuJ9a8&streamid=jdh-live%3Ajdh-live%2F2108111201035597&v3=1$订阅源
+#EXTINF:-1 tvg-name="剑阁综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/剑阁综合.png" group-title="☘️四川频道",剑阁综合
+https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="叙永综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/叙永综合.png" group-title="☘️四川频道",叙永综合
 rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 #EXTINF:-1 tvg-name="叙永综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/叙永综合.png" group-title="☘️四川频道",叙永综合
 http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd#rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd$订阅源
 #EXTINF:-1 tvg-name="名山综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/名山综合.png" group-title="☘️四川频道",名山综合
-https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="名山综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/名山综合.png" group-title="☘️四川频道",名山综合
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1 tvg-name="名山综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/名山综合.png" group-title="☘️四川频道",名山综合
+https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="名山综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/名山综合.png" group-title="☘️四川频道",名山综合
 https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="名山综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/名山综合.png" group-title="☘️四川频道",名山综合
@@ -2567,6 +2563,8 @@ rtmp://xjlive.xjxrmt.cn/live/xwpd$订阅源
 https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel2/playlist.m3u8?zsicd$订阅源
 #EXTINF:-1 tvg-name="广元综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广元综合.png" group-title="☘️四川频道",广元综合
 https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel1/playlist.m3u8?zsicd$订阅源
+#EXTINF:-1 tvg-name="广安公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广安公共.png" group-title="☘️四川频道",广安公共
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd$订阅源
 #EXTINF:-1 tvg-name="康定综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/康定综合.png" group-title="☘️四川频道",康定综合
 http://kdfile.ganzitv.com/nmip-media/channellive/channel100663/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/康巴卫视.png" group-title="☘️四川频道",康巴卫视
@@ -2596,9 +2594,9 @@ https://live.pzhkai.com/xwzhtl/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
-http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
-#EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
 https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel9/playlist.m3u8?zsicd$订阅源
+#EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
+http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
 http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
@@ -2647,8 +2645,6 @@ rtmp://tv.yunxya.com:1937/channellive/shimian$订阅源
 http://live.dameijunlian.cn:80/live1/live1.m3u8$订阅源
 #EXTINF:-1 tvg-name="绵阳科技" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/绵阳科技.png" group-title="☘️四川频道",绵阳科技
 http://livepull.myntv.cn:80/rtmp/mykj.m3u8$订阅源
-#EXTINF:-1 tvg-name="绵阳综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/绵阳综合.png" group-title="☘️四川频道",绵阳综合
-http://119.6.59.216:60033/tsfile/live/1007_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="荥经综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/荥经综合.png" group-title="☘️四川频道",荥经综合
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="荥经综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/荥经综合.png" group-title="☘️四川频道",荥经综合
@@ -2666,9 +2662,9 @@ http://palive.patv123.com:8091/live/xwpd_800K.m3u8$订阅源
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金川乡村.png" group-title="☘️四川频道",金川乡村
 http://lmt.scqstv.com/live1/live1.m3u8?zsicd?$订阅源
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金川乡村.png" group-title="☘️四川频道",金川乡村
-https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金川乡村.png" group-title="☘️四川频道",金川乡村
 http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;$订阅源
+#EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金川乡村.png" group-title="☘️四川频道",金川乡村
+https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金川乡村.png" group-title="☘️四川频道",金川乡村
 rtmp://139.203.180.9/live/jcxc$订阅源
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金川乡村.png" group-title="☘️四川频道",金川乡村
@@ -2695,16 +2691,12 @@ http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8$订�
 http://lmt.scqstv.com/live1/live1.m3u8?zsicd?$订阅源
 #EXTINF:-1 tvg-name="马尔康综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/马尔康综合.png" group-title="☘️四川频道",马尔康综合
 rtmp://live.zmmek.com/live/zhxw$订阅源
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西农林卫视.png" group-title="☘️陕西频道",陕西农林卫视
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0313&tk=23a9aca1f79f$订阅源
 #EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
-http://113.200.148.203:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="陕西新闻资讯" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西新闻资讯.png" group-title="☘️陕西频道",陕西新闻资讯
-http://124.116.183.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="陕西都市青春" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西都市青春.png" group-title="☘️陕西频道",陕西都市青春
-http://124.116.183.146:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="陕西生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西生活.png" group-title="☘️陕西频道",陕西生活
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/陕西公共.png" group-title="☘️陕西频道",陕西公共
@@ -2743,8 +2735,6 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/ind
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227375/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/厦门卫视.png" group-title="☘️福建频道",厦门卫视
 https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8$订阅源
-#EXTINF:-1 tvg-name="宁化电视一套" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/宁化电视一套.png" group-title="☘️福建频道",宁化电视一套
-http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian$订阅源
 #EXTINF:-1 tvg-name="晋江电视台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/晋江电视台.png" group-title="☘️福建频道",晋江电视台
 http://stream.jinjiang.tv/1/sd/live.m3u8?zfud$订阅源
 #EXTINF:-1 tvg-name="漳浦综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/漳浦综合.png" group-title="☘️福建频道",漳浦综合
@@ -3031,10 +3021,16 @@ https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd#https://jwpla
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8$订阅源
 #EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/衡水公共.png" group-title="☘️河北频道",衡水公共
 http://ls.qingting.fm/live/2810.m3u8$订阅源
-#EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/石家庄新闻综合.png" group-title="☘️河北频道",石家庄新闻综合
-http://124.239.135.194:11080/live/sjzxwzh/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="石家庄都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/石家庄都市.png" group-title="☘️河北频道",石家庄都市
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0430&tk=7877e7cc41c7$订阅源
+#EXTINF:-1 tvg-name="石家庄生活" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/石家庄生活.png" group-title="☘️河北频道",石家庄生活
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6093&tk=7d4ad8f156e3$订阅源
 #EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/石家庄新闻综合.png" group-title="☘️河北频道",石家庄新闻综合
 http://nn.7x9d.cn/石家庄.php?id=4$订阅源
+#EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/石家庄新闻综合.png" group-title="☘️河北频道",石家庄新闻综合
+http://124.239.135.194:11080/live/sjzxwzh/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="石家庄娱乐" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/石家庄娱乐.png" group-title="☘️河北频道",石家庄娱乐
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0948&tk=97475bb89d45$订阅源
 #EXTINF:-1 tvg-name="滦平新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/滦平新闻.png" group-title="☘️河北频道",滦平新闻
 http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8$订阅源
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/河北都市.png" group-title="☘️河北频道",河北都市
@@ -3288,21 +3284,21 @@ http://z.b.bkpcp.top/m.php?id=sdjy$订阅源
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
 http://goo.bkpcp.top/mg/sdjy$订阅源
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
-https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8$订阅源
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
 http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
+https://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
+http://live.xmcdn.com/live/802/64.m3u8$订阅源
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
 http://120.238.94.10:9901/tsfile/live/1062_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
-http://live.xmcdn.com/live/802/64.m3u8$订阅源
+http://183.11.239.36:808/hls/72/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
 http://121.19.134.222:808/tsfile/live/1033_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
 http://dassby.qqff.top:99/live/山东教育卫视/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东教育.png" group-title="☘️山东频道",山东教育
-http://183.11.239.36:808/hls/72/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东居家购物" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东居家购物.png" group-title="☘️山东频道",山东居家购物
 http://livealone302.iqilu.com/iqilu/gwpd.m3u8$订阅源
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/山东农科.png" group-title="☘️山东频道",山东农科
@@ -3383,6 +3379,8 @@ https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$
 http://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="东营综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东营综合.png" group-title="☘️山东频道",东营综合
 rtmp://stream.hhek.cn:9936/live/xwzh_sd?shandd$订阅源
+#EXTINF:-1 tvg-name="中华美食" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/中华美食.png" group-title="☘️山东频道",中华美食
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2264&tk=23a9aca1f79f$订阅源
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/临沂公共.png" group-title="☘️山东频道",临沂公共
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8$订阅源
 #EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/临沂公共.png" group-title="☘️山东频道",临沂公共
@@ -3491,6 +3489,8 @@ rtmp://live.ahsz.tv/video/s10001-kxjy$订阅源
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="宿州公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/宿州公共.png" group-title="☘️安徽频道",宿州公共
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="安徽影院" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/安徽影院.png" group-title="☘️安徽频道",安徽影院
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0964&tk=2894ccdba8fc
 #EXTINF:-1 tvg-name="六安新闻综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/六安新闻综合.png" group-title="☘️安徽频道",六安新闻综合
 http://ls.qingting.fm/live/267.m3u8$订阅源
 #EXTINF:-1 tvg-name="六安公共" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/六安公共.png" group-title="☘️安徽频道",六安公共
@@ -3694,17 +3694,17 @@ https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65ju
 #EXTINF:-1 tvg-name="西宁生活服务" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/西宁生活服务.png" group-title="☘️青海频道",西宁生活服务
 http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源
 #EXTINF:-1 tvg-name="门源综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/门源综合.png" group-title="☘️青海频道",门源综合
-https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8$订阅源
-#EXTINF:-1 tvg-name="门源综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/门源综合.png" group-title="☘️青海频道",门源综合
 http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8?zqinghd$订阅源
-#EXTINF:-1 tvg-name="贵南综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/贵南综合.png" group-title="☘️青海频道",贵南综合
-https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8$订阅源
+#EXTINF:-1 tvg-name="门源综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/门源综合.png" group-title="☘️青海频道",门源综合
+https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8$订阅源
 #EXTINF:-1 tvg-name="贵南综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/贵南综合.png" group-title="☘️青海频道",贵南综合
 http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd$订阅源
-#EXTINF:-1 tvg-name="化隆综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/化隆综合.png" group-title="☘️青海频道",化隆综合
-https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8$订阅源
+#EXTINF:-1 tvg-name="贵南综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/贵南综合.png" group-title="☘️青海频道",贵南综合
+https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8$订阅源
 #EXTINF:-1 tvg-name="化隆综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/化隆综合.png" group-title="☘️青海频道",化隆综合
 http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8?zqinghd$订阅源
+#EXTINF:-1 tvg-name="化隆综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/化隆综合.png" group-title="☘️青海频道",化隆综合
+https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8$订阅源
 #EXTINF:-1 tvg-name="民和综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/民和综合.png" group-title="☘️青海频道",民和综合
 http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd#http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8$订阅源
 #EXTINF:-1 tvg-name="兴海综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/兴海综合.png" group-title="☘️青海频道",兴海综合
@@ -3854,19 +3854,19 @@ https://cdn5.1678520.xyz/live/live2.1.php?id=j1$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8$订阅源
+http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/翡翠台.png" group-title="🌊港·澳·台",翡翠台
-http://live_bin.m16tv.cfd/stream/aktv/null/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/明珠台.png" group-title="🌊港·澳·台",明珠台
-http://live_bin.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
+http://aktv_stream1.m16tv.cfd/stream/aktv/null/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/明珠台.png" group-title="🌊港·澳·台",明珠台
-http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://live_bin.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://aktv_stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -3920,13 +3920,13 @@ https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://cdn3.132.us.kg/live/fhhk/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0$订阅源
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;amp;wsMonitor=0$订阅源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8$订阅源
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0$订阅源
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
@@ -3950,9 +3950,9 @@ http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="🌊港·澳·台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源
-#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$订阅源
+#EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="🌊港·澳·台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq$订阅源
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="🌊港·澳·台",香港卫视
 https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8$订阅源
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/香港卫视.png" group-title="🌊港·澳·台",香港卫视
@@ -3964,10 +3964,6 @@ https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
-http://live_bin.m16tv.cfd/stream/test/null/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
-http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 http://dassby.qqff.top:99/live/辽宁体育/index.m3u8#rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
@@ -3977,6 +3973,10 @@ http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby$订阅源
 rtmp://116.93.98.236/sat/tv721.flv$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
 rtmp://60.248.77.83/sat/tv721$订阅源
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
+rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🌊港·澳·台",纬来体育
+rtmp://220.130.201.73/sat/tv721$订阅源
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
 https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
@@ -3998,13 +3998,13 @@ https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40$�
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/Viutv.png" group-title="🌊港·澳·台",Viutv
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/Viutv.png" group-title="🌊港·澳·台",Viutv
-http://live_bin.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/Viutv.png" group-title="🌊港·澳·台",Viutv
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/Viutv.png" group-title="🌊港·澳·台",Viutv
-http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/Viutv.png" group-title="🌊港·澳·台",Viutv
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=686
+#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/Viutv.png" group-title="🌊港·澳·台",Viutv
+http://live_bin.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8$订阅源
+#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/Viutv.png" group-title="🌊港·澳·台",Viutv
+http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/三立台湾.png" group-title="🌊港·澳·台",三立台湾
 https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/三立台湾.png" group-title="🌊港·澳·台",三立台湾
@@ -4020,23 +4020,21 @@ https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8$订阅源
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8$订阅源
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
+http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8$订阅源
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 http://live_bin.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
-http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
 http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线新闻.png" group-title="🌊港·澳·台",无线新闻
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 https://tv.iill.top/4gtv/229$订阅源
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源
-#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/三立新闻.png" group-title="🌊港·澳·台",三立新闻
-http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14$订阅源
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/三立新闻.png" group-title="🌊港·澳·台",三立新闻
 http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8$订阅源
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森综合.png" group-title="🌊港·澳·台",东森综合
@@ -4064,9 +4062,9 @@ rtmp://220.130.201.73/sat/tv331$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🌊港·澳·台",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🌊港·澳·台",东森电影
-http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🌊港·澳·台",东森电影
 http://119.140.58.125:4434/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🌊港·澳·台",东森电影
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
 https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
@@ -4084,11 +4082,11 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8$订阅源
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://120.198.101.106:9901/tsfile/live/1051_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
-http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
+http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://z.b.bkpcp.top/m.php?id=dzdy CCTV1 综合$订阅源
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
@@ -4110,11 +4108,11 @@ http://data.3g.yy.com/live/hls/1382735573/1382735573$订阅源
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8$订阅源
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
+http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv$订阅源
+http://218.15.183.23:9901/tsfile/live/23044_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
@@ -4190,13 +4188,13 @@ http://120.238.94.10:9901/tsfile/live/1040_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/经典电影.png" group-title="🎬电影频道",经典电影
 http://61.163.181.78:9901/tsfile/live/1059_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/经典电影.png" group-title="🎬电影频道",经典电影
-http://tv.zzlag.top:9087/tsfile/live/1057_1.m3u8?key=txiptv$订阅源
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/经典电影.png" group-title="🎬电影频道",经典电影
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227322/10000100000000060000000001946404_0.smil$订阅源
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/经典电影.png" group-title="🎬电影频道",经典电影
 rtsp://115.153.245.70/PLTV/88888888/224/3221227010/86440860.smil$订阅源
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/经典电影.png" group-title="🎬电影频道",经典电影
 rtsp://115.153.254.81/PLTV/88888888/224/3221227010/86440860.smil$订阅源
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/经典电影.png" group-title="🎬电影频道",经典电影
+rtsp://115.153.240.228:554/PLTV/88888888/224/3221227010/86440860.smil$订阅源
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/天映经典.png" group-title="🎬电影频道",天映经典
 https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/无线星河.png" group-title="🎬电影频道",无线星河
@@ -4208,9 +4206,9 @@ http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$�
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🎬电影频道",东森电影
 https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🎬电影频道",东森电影
-http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🎬电影频道",东森电影
 http://119.140.58.125:4434/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森电影.png" group-title="🎬电影频道",东森电影
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森洋片.png" group-title="🎬电影频道",东森洋片
 https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40$订阅源
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/东森超视.png" group-title="🎬电影频道",东森超视
@@ -4362,13 +4360,13 @@ http://cdn2.132.us.kg/live/gdty/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="🏀体育频道",广东体育
 https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="🏀体育频道",广东体育
-http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源
+http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="🏀体育频道",广东体育
-http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$订阅源
+http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="🏀体育频道",广东体育
 http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="🏀体育频道",广东体育
-http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv$订阅源
+http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="🏀体育频道",广东体育
 http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广东体育.png" group-title="🏀体育频道",广东体育
@@ -4380,10 +4378,6 @@ https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
-http://live_bin.m16tv.cfd/stream/test/null/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
-http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8$订阅源
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
 http://122.117.71.103:8562/http/61.222.53.250:8081/hls/67/809/ch28.m3u8$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
 http://dassby.qqff.top:99/live/辽宁体育/index.m3u8#rtmp://f13h.mine.nu:1935/sat/tv721$订阅源
@@ -4393,6 +4387,10 @@ http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby$订阅源
 rtmp://116.93.98.236/sat/tv721.flv$订阅源
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
 rtmp://60.248.77.83/sat/tv721$订阅源
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
+rtmp://9hv9.mine.nu/sat/tv721.flv$订阅源
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/纬来体育.png" group-title="🏀体育频道",纬来体育
+rtmp://220.130.201.73/sat/tv721$订阅源
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/五星体育.png" group-title="🏀体育频道",五星体育
 http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/五星体育.png" group-title="🏀体育频道",五星体育
@@ -4460,19 +4458,19 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
 http://php.jdshipin.com:8880/gztv.php?id=jingsai#https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487$订阅源
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
+http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=49c8041461997c7a97dbcc3c7fd11b4f&txTime=18d00acf487$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
-http://tencentplaygsm.gztv.com/live/jingsai.m3u8$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
-http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
-https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78$订阅源
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
-https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
 https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb$订阅源
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
-http://nn.7x9d.cn/地方台8563/gsw.php?id=gzjs$订阅源
+https://tencentplaygsm.gztv.com/live/jingsai.m3u8?txTime=659e2559&amp;txSecret=067c1cd334fe2f8773d9452993e86c78$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
+http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouJingSai$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
+http://tencentplaygsm.gztv.com/live/jingsai.m3u8$订阅源
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/广州竞赛.png" group-title="🏀体育频道",广州竞赛
+https://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/辽宁体育.png" group-title="🏀体育频道",辽宁体育
 http://120.76.248.139/live/bfgd/4200000611.m3u8$订阅源
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/辽宁体育.png" group-title="🏀体育频道",辽宁体育
@@ -4491,10 +4489,12 @@ http://58.57.40.22:9901/tsfile/live/1020_1.m3u8$订阅源
 http://api3.52tb.xyz/info?id=455&token=20221127jxwhhemby$订阅源
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8$订阅源
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="🏀体育频道",风云足球
-http://dassby.qqff.top:99/live/风云足球/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="睛彩羽毛球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/睛彩羽毛球.png" group-title="🏀体育频道",睛彩羽毛球
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0009&tk=b53028476470$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="🏀体育频道",风云足球
 http://183.11.239.36:808/hls/133/index.m3u8$订阅源
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="🏀体育频道",风云足球
+http://dassby.qqff.top:99/live/风云足球/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="🏀体育频道",风云足球
 rtsp://115.153.245.70/PLTV/88888888/224/3221227000/86128919.smil$订阅源
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/风云足球.png" group-title="🏀体育频道",风云足球
@@ -4550,8 +4550,6 @@ http://zzy789.xyz/douyu1.php?id=488743$订阅源
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/少儿动画.png" group-title="🪁动画频道",少儿动画
 http://218.15.183.23:9901/tsfile/live/23045_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/少儿动画.png" group-title="🪁动画频道",少儿动画
-http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/少儿动画.png" group-title="🪁动画频道",少儿动画
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/少儿动画.png" group-title="🪁动画频道",少儿动画
 rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil$订阅源
@@ -4567,8 +4565,8 @@ rtsp://115.153.212.72/PLTV/88888888/224/3221227006/86440922.smil$订阅源
 rtsp://115.153.247.80/PLTV/88888888/224/3221227006/86440922.smil$订阅源
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/少儿动画.png" group-title="🪁动画频道",少儿动画
 rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil$订阅源
-#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/卡酷动画.png" group-title="🪁动画频道",卡酷动画
-http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/少儿动画.png" group-title="🪁动画频道",少儿动画
+rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil$订阅源
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/卡酷动画.png" group-title="🪁动画频道",卡酷动画
 http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="🪁动画频道",动漫秀场
@@ -4586,11 +4584,11 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8$订�
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="🪁动画频道",动漫秀场
-http://60.29.124.66:6080/hls/62/index.m3u8$订阅源
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 http://dassby.qqff.top:99/live/动漫秀场/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="🪁动画频道",动漫秀场
 rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/动漫秀场.png" group-title="🪁动画频道",动漫秀场
+rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil$订阅源
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新动漫.png" group-title="🪁动画频道",新动漫
 http://dassby.qqff.top:99/live/新动漫/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/新动漫.png" group-title="🪁动画频道",新动漫
@@ -4652,17 +4650,17 @@ http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv$订阅源
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://120.238.94.10:9901/tsfile/live/1036_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8#
+http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
+http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://218.15.183.23:9901/tsfile/live/23041_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
 http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$订阅源
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/金鹰卡通.png" group-title="🪁动画频道",金鹰卡通
-http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/黑莓动画.png" group-title="🪁动画频道",黑莓动画
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002$订阅源
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/黑莓动画.png" group-title="🪁动画频道",黑莓动画
@@ -4676,11 +4674,11 @@ http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/黑莓动画.png" group-title="🪁动画频道",黑莓动画
 http://api3.52tb.xyz/info?id=173&token=20221127jxwhhemby$订阅源
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/炫动卡通.png" group-title="🪁动画频道",炫动卡通
-http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
+http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv$订阅源
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/炫动卡通.png" group-title="🪁动画频道",炫动卡通
 http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/炫动卡通.png" group-title="🪁动画频道",炫动卡通
-http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv$订阅源
+http://218.15.183.23:9901/tsfile/live/23042_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/炫动卡通.png" group-title="🪁动画频道",炫动卡通
 http://1b6467f415.iok.la:9931/tsfile/live/1056_1.m3u8$订阅源
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/炫动卡通.png" group-title="🪁动画频道",炫动卡通
@@ -4702,9 +4700,9 @@ https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="🪁动画频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ms.fxim.net:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://gh.catmak.name/https://gitee.com/styUnv/tv/raw/gd/icon/河北少儿科教.png" group-title="🪁动画频道",河北少儿科教
